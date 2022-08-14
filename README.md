@@ -1,0 +1,1 @@
+# EditorConfig-idf
